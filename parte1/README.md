@@ -60,7 +60,7 @@ Mediante la terminal integrada del editor y ejecuté `sbt compile`, finalizando 
 ### Verificacion existencia del IDE y el plugin de Scala
 Como va tenia instalao el IDE, entre directamente en la seccion de plugins y descargué el soporte para el lenguaje Scala.
 
-![Instalación IntelliJ](../images/verificacion-instalacion-intellij.jpg)
+![Instalación IntelliJ](../images/verificacion_instalacion_intellij.png)
 ![Plugin Scala en IntelliJ](../images/instalacion_plugin.png)
 
 ### Creación del proyecto y configuración de JDK
