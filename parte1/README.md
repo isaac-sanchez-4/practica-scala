@@ -60,13 +60,13 @@ Mediante la terminal integrada del editor y ejecuté `sbt compile`, finalizando 
 ### Verificacion existencia del IDE y el plugin de Scala
 Como va tenia instalao el IDE, entre directamente en la seccion de plugins y descargué el soporte para el lenguaje Scala.
 
-![Instalación IntelliJ](../images/verificacion_instalacion_intellij.jpg)
+![Instalación IntelliJ](../images/verificacion-instalacion-intellij.jpg)
 ![Plugin Scala en IntelliJ](../images/instalacion_plugin.png)
 
 ### Creación del proyecto y configuración de JDK
 Creé un nuevo proyecto basado en sbt con el nombre `scala-intellij`. Durante la configuración, seleccioné el JDK 17 y la version `2.12.21`de scala
 
-![Creación del proyecto](../images/creacion-proyecto)
+![Creación del proyecto](../images/creacion-proyecto.png)
 
 ### Archivos del proyecto
 El IDE generó automáticamente la estructura junto con el archivo`main.scala` . Revisé que el archivo `build.sbt` contuviera la versión `2.12.21` y escribí el código de prueba en `Main.scala`.
