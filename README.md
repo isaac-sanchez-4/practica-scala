@@ -12,13 +12,13 @@ Nombre y apellidos: ISAAC Sanchez Garcia
 
 ## Parte 1 — Entornos de trabajo
 
-### Entorno 1
-JupyterLab + Almond Kernel
+En esta parte se documenta la instalación y configuración de los siguientes entornos:
+- Entorno 1: JupyterLab + Almond Kernel
+- Entorno 2: Visual Studio Code + Metals + sbt
+- Entorno 3: IntelliJ IDEA Community + sbt
 
 [Ver documentación de la Parte 1](parte1/README.md)
 
-### Entorno 2
-Visual Studio Code + Metals + sbt
+## Parte 2 — Programación con Scala
 
-### Entorno 3
-IntelliJ IDEA Community + sbt
+[Ver Parte 2](parte2/README.md)
