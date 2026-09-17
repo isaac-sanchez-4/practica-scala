@@ -31,4 +31,4 @@ El proyecto sigue la estructura estándar de sbt:
 ## Problemas encontrados y soluciones 
 Incompatibilidad de rutas y comandos sbt en la terminal:** Al abrir nuevas sesiones de PowerShell, el sistema operativo no encontraba el comando `sbt`. 
    - *Solución encontrada :* Configuración de la variable de entorno temporal.
-![Error](images/error_sbt.png)
+![Error](imagenes/errorsbt.png)
