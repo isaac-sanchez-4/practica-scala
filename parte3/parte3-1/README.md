@@ -34,6 +34,11 @@ Incompatibilidad de rutas y comandos sbt en la terminal:** Al abrir nuevas sesio
 ![Error](imagenes/errorsbt.png)
 
 ## Ejecucion 
+`programa`
+![compile](imagenes/programa.png)
+
+`estructura`
+![compile](imagenes/estructura.png)
 
 `sbt compile`  
 ![compile](imagenes/sbtcompile.png)
