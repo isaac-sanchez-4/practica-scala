@@ -25,6 +25,8 @@ En esta parte se documenta la instalación y configuración de los siguientes en
 
 ## Parte 3 — Mini proyectos en entornos de desarrollo
 
+[Ver Parte 3](parte3/README.md)
+
 - [Parte 3.1 — Visual Studio Code + Metals + sbt](parte3/parte3-1/README.md)
 - [Parte 3.2 — IntelliJ IDEA + sbt](parte3/parte3-2/README.md)
 
