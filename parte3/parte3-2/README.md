@@ -1,4 +1,3 @@
-
 # Analizador de Calificaciones (Scala)
 
 ## ¿Qué hace el programa?
@@ -21,23 +20,23 @@ El proyecto utiliza dos tipos de colecciones:
 2. **`List` (para los estudiantes):** colecion por defecto. 
 
 **¿Por qué no se modifica la lista original al añadir a Carlos?**
-En Scala, la clase `List` representa listas enlazadas que son inmutables. Cuando utilizamos el operador `::` (cons) para añadir a "Carlos" al principio, Scala no altera la lista `estudiantes` sino que crea un nuevo nodo "Carlos" que apunta hacia la lista original, generando una estructura nueva (`nuevosEstudiantes`).
+En Scala, la clase `List` representa listas enlazadas que son inmutables. Cuando utilizamos el operador `::` (cons) para añadir a "Carlos" al principio, Scala no altera la lista `estudiantes` sino que devuelve una nueva lista con el nuevo elemento al inicio.
 
 ## captura de pantalla
 
 `estructura y pluging`
-![main](images/main.png)
+![main](imagenes/main.png)
 
 
 `codigo`
-![main](images/resultado.png)
+![main](imagenes/resultado.png)
 
 
 `run`
-![main](images/sbtrun.png)
+![main](imagenes/sbtrun.png)
 
 `compile`
-![main](images/sbtcompile.png)
+![main](imagenes/sbtcompile.png)
 
 `compile`
-![main](images/sbc.png)
+![main](imagenes/sbc.png)
